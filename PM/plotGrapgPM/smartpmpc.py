@@ -11,15 +11,15 @@ from datetime import datetime, date
 matplotlib.rcParams['font.family'] = 'Tahoma'  # ฟอนต์ภาษาไทย (ถ้าไม่มีจะ fallback)
 
 # 🔎 โฟลเดอร์แม่สำหรับค้นหาไฟล์ (ค้นหาแบบ recursive)
-search_root = r'D:\The_Naeim\Data\PM\BackUpOtherUsing'    # เปลี่ยนเป็นโฟลเดอร์ของคุณ
+search_root = r'D:\The_Naeim\Data\PM'    # เปลี่ยนเป็นโฟลเดอร์ของคุณ
 search_recursive = True                      # True = ค้นหาย่อยทั้งหมดด้วย
 
 # ===== เลือกช่วง "วันที่ + เวลา" แบบต่อเนื่อง (ข้ามวันได้) =====
 # ตัวอย่าง: 27/08/2025 23:50:00  →  28/08/2025 00:20:00
 start_date_str = '07/09/2025'
-start_time_str = '10:00:00'
+start_time_str = '19:42:00'
 end_date_str   = '07/09/2025'
-end_time_str   = '10:40:00'  # ใช้ . หรือ - แทน : ได้ เช่น 00-20-00
+end_time_str   = '20:22:00'  # ใช้ . หรือ - แทน : ได้ เช่น 00-20-00
 
 # โฟลเดอร์บันทึกรูป
 output_base   = r'D:\The_Naeim\Data\PM\BackUpOtherUsing\outputpmpc'
