@@ -23,7 +23,7 @@ search_recursive_th = True                   # True = ค้นหาย่อ�
 start_date_str = '08/09/2025'
 start_time_str = '15:40:00'
 end_date_str   = '08/09/2025'
-end_time_str   = '19:00:00'  # ใช้ . หรือ - แทน : ได้ เช่น 00-20-00
+end_time_str   = '18:30:00'  # ใช้ . หรือ - แทน : ได้ เช่น 00-20-00
 
 # โฟลเดอร์บันทึกรูป
 output_base   = r'D:\The_Naeim\Data\PM\BackUpOtherUsing\outputpmpc'
