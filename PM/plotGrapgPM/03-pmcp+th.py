@@ -20,10 +20,10 @@ search_recursive_th = True                   # True = ค้นหาย่อ�
 
 # ===== เลือกช่วง "วันที่ + เวลา" แบบต่อเนื่อง (ข้ามวันได้) =====
 # ตัวอย่าง: 27/08/2025 23:50:00  →  28/08/2025 00:20:00
-start_date_str = '08/09/2025'
-start_time_str = '15:40:00'
-end_date_str   = '08/09/2025'
-end_time_str   = '18:30:00'  # ใช้ . หรือ - แทน : ได้ เช่น 00-20-00
+start_date_str = '10/09/2025'
+start_time_str = '10:48:00'
+end_date_str   = '10/09/2025'
+end_time_str   = '13:10:00'  # ใช้ . หรือ - แทน : ได้ เช่น 00-20-00
 
 # โฟลเดอร์บันทึกรูป
 output_base   = r'D:\The_Naeim\Data\PM\BackUpOtherUsing\outputpmpc'
