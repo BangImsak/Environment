@@ -74,3 +74,6 @@ Read error: [Errno 13] Permission denied: 'D:\\The_Naeim\\Data\\PM\\PM_DisComfor
 [ERROR] Serial connection failed: could not open port 'COM18': PermissionError(13, 'Access is denied.', None, 5)
 Read error: ClearCommError failed (PermissionError(13, 'Access is denied.', None, 5))
 [ERROR] Serial connection failed: could not open port 'COM18': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+Read error: ClearCommError failed (PermissionError(13, 'Access is denied.', None, 5))
+[ERROR] Serial connection failed: could not open port 'COM18': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+[ERROR] Serial connection failed: could not open port 'COM18': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
